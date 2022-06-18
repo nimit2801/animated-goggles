@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.button-black{
+    border-color: aliceblue;
+    background-color: black;
+}
+
+.male{
+    border-width: 10px;
+    border-color: bisque;
+    border-radius: 3px;
+}
